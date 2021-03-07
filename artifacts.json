@@ -1,7 +1,7 @@
 {
     "this-repository": "https://https://github.com/354352231/artifact-directory-template",
     "project-repository": "https://github.com/pristinsky1/live_vs_video_on_demand_VPN_detection",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
+    "dockerhub-repository": "apristin99/live_vs_vod_project:latest",
     "project-website-url": "https://pristinsky1.github.io/live_vs_video_on_demand_VPN_detection/",
     "project-website-code": "https://github.com/pristinsky1/live_vs_video_on_demand_VPN_detection/tree/gh-pages"
 }
